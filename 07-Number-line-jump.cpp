@@ -1,4 +1,5 @@
-// Hacker Rank kangroo problem solving
+// problem link
+//      https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
 
 #include <iostream>
 using namespace std;

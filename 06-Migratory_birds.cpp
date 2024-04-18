@@ -1,4 +1,5 @@
-// sighting birds example
+// problem link
+//      https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true
 
 #include <iostream>
 #include <vector>

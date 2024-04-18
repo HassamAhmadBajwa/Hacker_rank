@@ -1,3 +1,6 @@
+// problem link
+//      https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true
+
 #include <iostream>
 #include <vector>
 using namespace std;
